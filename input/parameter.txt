@@ -1,0 +1,48 @@
+--x grid number: nx 
+  800
+--z grid number: nz
+  170
+--PML numbers: pml
+  16
+--FD order: Lc
+  2
+--x grid interval (m): dx
+  10.0
+--z grid interval (m): dz
+  10.0
+--recording time (s): rectime
+  8.0
+--time sample (s): dt
+  1e-3
+--Riker wavelet dominant frequency (Hz): f0
+  15.0
+--frequency numbers: Nf
+  6
+--frequency interval: freqintv
+  2
+--beginning frequency of each group: freq0+ifreq*2.0
+  1.5
+--shot numbers: ns
+  100
+--the distance of the first shot at the left boundary (m): sx0
+  40.0
+--shot interval X (m): shotdx
+  80.0
+--the depth of shots (m): shotdep
+  10.0
+--the depth of receivers (m): recdep
+  10.0
+--the maximum offset of each source (m): moffsetx
+  8000.0
+--the teration numbers: itn
+  20
+--the beginning teration time: iterb
+  0
+--the beginning frequency time: ifreqb
+  0
+--encoded super source numbers: Ns
+  10 5 3 2 2 1
+--ricker flag
+  0
+--noise flag
+  0
