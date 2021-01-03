@@ -54,5 +54,7 @@ As for the observed data, if they are not prepared, we have also provided an add
 For downloading and using this package for your own studies, please cite the following publications:
 
 [1] Zhang Q, Mao W, Fang J. Crosstalk-free simultaneous-source full waveform inversion with normalized seismic data. Computers & Geosciences, 2020, 138, 104460.
+
 [2] Zhang Q, Mao W, Fang J. Elastic full waveform inversion with source-independent crosstalk-free source-encoding algorithm. IEEE Transactions on Geoscience and Remote Sensing, 2020, 58(4), 2915-2927.
+
 [3] Zhang Q, Mao W, Zhou H, Zhang H, Chen Y. Hybrid-domain simultaneous-source full waveform inversion without crosstalk noise. Geophysical Journal International, 2018, 215(3), 1659–1681.
