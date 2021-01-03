@@ -51,7 +51,7 @@ As for the observed data, if they are not prepared, we have also provided an add
 
 ##################################################################
 
-For downloading and using this package for your own studies, please cite the following publications:
+## For downloading and using this package for your own studies, please cite the following publications:
 
 [1] Zhang Q, Mao W, Fang J. Crosstalk-free simultaneous-source full waveform inversion with normalized seismic data. Computers & Geosciences, 2020, 138, 104460.
 
